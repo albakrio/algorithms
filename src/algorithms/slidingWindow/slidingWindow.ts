@@ -67,9 +67,3 @@ function subarraySumLongest(nums: number[], target: number): number {
 
 	return length;
 }
-
-
-// 
-// 
-// 
-// 
